@@ -101,7 +101,7 @@ Baseline Purchase Conversion Rate는 Funnel Analysis에서 확인한 **1.74%**�
 - Baseline CVR: **1.74%**
 - Target CVR: **약 2.00%**
 - Relative MDE: **15%**
-- Absolute Improvement: **약 +0.261%p**
+- Absolute Improvement: **약 +0.261%**
 
 Baseline conversion이 낮아 작은 효과를 검출하기 위해서는 비교적 큰 표본이 필요함을 확인했습니다.
 
@@ -117,7 +117,7 @@ Power Analysis를 기반으로 사용자 단위 무작위 실험을 시뮬레이
 | Treatment Users | 42,495 |
 | Control Conversions | 749 |
 | Treatment Conversions | 852 |
-| Absolute Lift | **+0.222%p** |
+| Absolute Lift | **+0.222%** |
 | Relative Lift | **+12.42%** |
 
 Treatment 그룹에서 구매 전환율 개선이 관찰되었습니다.
@@ -130,7 +130,7 @@ Two-Proportion Z-Test와 95% Confidence Interval을 이용해 관찰된 전환�
 
 - **Z-statistic:** 2.3618
 - **P-value:** 0.0182
-- **95% CI:** [+0.038%p, +0.405%p]
+- **95% CI:** [+0.038%, +0.405%]
 - **Relative Lift:** +12.42%
 - **Target MDE:** +15%
 
